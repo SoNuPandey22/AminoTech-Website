@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Space+Mono&display=swap');
+
+.header{
+	font-family: 'Space Mono', monospace;
+}
+
+.header-title {
+ font-family: 'Montserrat', sans-serif;
+ font-family: 'Space Mono', monospace;
+}
