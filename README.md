@@ -4,4 +4,6 @@
 # Feel free to use in your project
 
 ## screenShots of the site
-![home page ](/screenShot/home.png)
+![home page ](ScreenShot/home.png)
+![homepage 2](ScreenShot/home2.png)
+![footer](ScreenShot/footer.png)
