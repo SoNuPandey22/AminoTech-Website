@@ -2,7 +2,7 @@
 
 :root {
   /*skyblue is the color of the website header  blue =#1BABE2*/
-  --skyblue: white; 
+  --skyblue: #1BABE2; 
   --white: #ffffff;
   --blue: ;
   --yellow:#F7C621 ;
@@ -106,13 +106,14 @@ body {
 	background-color: var(--skyblue); 
   height: 125px;
   position:relative;
+  text-align: center;
 }
 
 #header #content div {
   padding: 35px 0; 
   font-size: 2vw; 
   color: white; 
-  margin-left: 6%;
+  /*margin-left: 6%;*/
 }
 
 #header #content div img{
@@ -122,7 +123,7 @@ body {
   margin-top: -30px;
 }
 #header #content div .header {
-   color:black; 
+   color:#ffff; 
    text-decoration: none; 
    font-weight: bold; 
 }

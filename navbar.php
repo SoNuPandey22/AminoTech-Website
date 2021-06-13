@@ -3,7 +3,7 @@
     <div  id="content" style="height: 80%;">
       <div>
         <img src="./images/logo-header.png"/> 
-        <a class='header' href="./index.php" style="">
+        <a class='header slideanim' href="./index.php" style="">
           AminoTech
         </a>
         <!-- <a class="slideanim header-title" href="./index.php" style="color: white; text-decoration: none; ">
