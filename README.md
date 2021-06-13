@@ -4,4 +4,4 @@
 # Feel free to use in your project
 
 ## screenShots of the site
-![](screenShot/home.png)
+![home page ](/screenShot/home.png)
