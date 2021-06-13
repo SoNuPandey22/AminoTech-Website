@@ -5,5 +5,5 @@
 
 ## screenShots of the site
 ![home page ](ScreenShot/home.png)
-![homepage 2](ScreenShot/home2.png)
+![homepage 2](ScreenShot/home1.png)
 ![footer](ScreenShot/footer.png)
